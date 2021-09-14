@@ -4,16 +4,11 @@ Este software utiliza multilayer perceptrons para identificar, a partir de uma c
 
 ## Sumário
 
-- [Vídeo](#video)
 - [Problema](#problema)
 - [Dataset](#dataset)
 - [Técnica](#tecnica)
 - [Ferramentas](#ferramentas)
 - [Instruções de uso](#instrucoes)
-
-### [Vídeo](#video)
-
-https://youtu.be/nn9N0aFW44s
 
 ### [Problema](#problema)
 
